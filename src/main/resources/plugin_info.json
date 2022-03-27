@@ -2,7 +2,7 @@
   "name": "MapID Printer",
   "version": "1.0",
   "description": "Print IDs of maps recieved from SPacketMaps.",
-  "url": "https://github.com/romtec123",
+  "url": "https://github.com/romtec123/mapIdPrinter",
   "authors": [ "romtec#6969"],
   "main_class": "com.lambda.mapIdPrint",
   "min_api_version": "3.0",

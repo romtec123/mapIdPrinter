@@ -14,7 +14,6 @@ internal object mapIdPrintModule : PluginModule(
     description = "Print the ID of maps sent by the server.",
     pluginMain = mapIdPrint
 ) {
-
     private var lastId: Int? = null
 
     init {
@@ -29,9 +28,5 @@ internal object mapIdPrintModule : PluginModule(
 
             }
         }
-
     }
-
-
-
 }
