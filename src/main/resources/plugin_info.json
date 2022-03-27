@@ -1,11 +1,11 @@
 {
-  "name": "ExamplePlugin",
+  "name": "MapID Printer",
   "version": "1.0",
-  "description": "Example implementation of a plugin for Lambda.",
-  "url": "https://github.com/lambda-client/ExamplePlugin",
-  "authors": [ "me", "you" ],
-  "main_class": "com.lambda.ExamplePlugin",
+  "description": "Print IDs of maps recieved from SPacketMaps.",
+  "url": "https://github.com/romtec123",
+  "authors": [ "romtec#6969"],
+  "main_class": "com.lambda.mapIdPrint",
   "min_api_version": "3.0",
-  "mixins": [ "mixins.ExamplePlugin.json" ],
+  "mixins": [],
   "required_plugins": []
 }
